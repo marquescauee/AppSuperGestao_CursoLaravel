@@ -5,4 +5,4 @@
 #### Rotas, Views e Controllers;
 #### Models, Migrations, Seeders e Factories;
 #### Banco de dados MySQL;
-#### Middlewares, autenticação e manipulação de formulários.
+#### Middlewares, autenticação e manipulação de formulários
